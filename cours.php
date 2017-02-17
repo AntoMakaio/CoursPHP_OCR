@@ -1,4 +1,4 @@
 <?php 
 
-echo '<h1>hello à tous</h1>'
+echo '<h1>hello à tous et à toutes !</h1>'
 ?>
