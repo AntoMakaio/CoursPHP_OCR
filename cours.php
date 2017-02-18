@@ -19,7 +19,7 @@ echo "Ceci est du <strong>texte</strong> \"uniquement\" en PHP " ;
 	echo "2e instruction <br />";
 	echo "3e instruction";
 
-		phpinfo()
+
 		?>
 	</body>
 
