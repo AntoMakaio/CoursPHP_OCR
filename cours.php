@@ -31,7 +31,7 @@ echo "Ceci est du <strong>texte</strong> \"uniquement\" en PHP " ;
 		//variable vide avec NULL
 		$pas_de_valeur = NULL ;
 
-		echo 'Le visiteur à ' . $age_du_visiteur . ' ans' ;
+		echo 'Le visiteur à ' . $age_du_visiteur . ' ans <br /><br />' ;
 
 		$nombre = 10 ;
 		$resultat = ($nombre + 5) * $nombre ;
